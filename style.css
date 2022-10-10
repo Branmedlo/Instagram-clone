@@ -1,0 +1,29 @@
+body
+{
+background-color: #eaeaea;
+padding: 0;
+margin: 0;
+}
+
+
+#top-bar{
+    margin: 0;
+    background-color: white;
+    padding: 5px;
+    border-bottom-color: #c0c0c0;
+    border-bottom-width: 0.5px;
+    border-bottom-style: double;
+}
+
+
+
+#logo{
+    width: 25px;
+    height: 25px;
+
+}
+
+#topbar-profile{
+    width: 40px;
+    height:40px;
+}
